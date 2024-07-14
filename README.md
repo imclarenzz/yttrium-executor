@@ -1,2 +1,2 @@
 # yttrium-executor
-Join our discord server! https://discord.gg/dWEESCPPst
+Do not download the source code files! They contain nothing but the "README.md". Here be dragons!
