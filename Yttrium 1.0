@@ -1,0 +1,4 @@
+Changelog:
+Removed Ugly GUI, Replaced with smoother GUI.
+Removed built-in script library, added GitHub branch library, accessible with any version.
+Added Ready/ Not Ready functionability.
